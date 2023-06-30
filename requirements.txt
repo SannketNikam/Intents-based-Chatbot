@@ -1,5 +1,4 @@
 nltk
 ssl
 streamlit
-random
 scikit-learn
