@@ -1,4 +1,3 @@
-os
 nltk
 ssl
 streamlit
