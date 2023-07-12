@@ -1,4 +1,3 @@
 nltk
-ssl
 streamlit
 scikit-learn
